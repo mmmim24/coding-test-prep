@@ -11,7 +11,26 @@ class Solution {
             int value = scanner.nextInt();
             list.append(value);
         }
+        System.out.println("Head node value after append: " + list.headNode().value);
+        System.out.println("Tail node value after append: " + list.tailNode().value);
         list.traverseFromHead();
+        list.traverseFromTail();
+        list.prepend(0);
+        list.prepend(-1);
+        System.out.println("Head node value after prepend: " + list.headNode().value);
+        System.out.println("Tail node value after prepend: " + list.tailNode().value);
+        list.traverseFromHead();
+        list.traverseFromTail();
+        list.deleteTail();
+        System.out.println("Head node value after delete tail: " + list.headNode().value);
+        System.out.println("Tail node value after delete tail: " + list.tailNode().value);
+        list.traverseFromHead();
+        list.traverseFromTail();
+        list.deleteHead();
+        System.out.println("Head node value after delete head: " + list.headNode().value);
+        System.out.println("Tail node value after delete head: " + list.tailNode().value);
+        list.traverseFromHead();
+        list.traverseFromTail();
         scanner.close();
     }
 }

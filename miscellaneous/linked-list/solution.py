@@ -7,6 +7,22 @@ class DoublyLinkedList:
     def __init__(self):
         self.head = None
         self.tail = None
+        print("DoublyLinkedList created.")
+
+    # the destructor to clean up the linked list
+    # it is not necessary to call this explicitly in Python
+    # as Python has garbage collection
+
+    def __del__(self):
+        current = self.head
+        while current:
+            next_node = current.next
+            current.prev = None
+            current.next = None
+            current = next_node
+        self.head = None
+        self.tail = None
+        print("DoublyLinkedList deleted.")
 
     def prepend(self, value: int):
         new_node = Node(value)
@@ -43,15 +59,23 @@ class DoublyLinkedList:
             return
         self.head = self.head.next
         self.head.prev = None
+        if not self.head:
+            self.tail = None
         
     def deleteTail(self):
         if not self.tail:
             return
         self.tail = self.tail.prev
         self.tail.next = None
+        if not self.tail:
+            self.head = None
 
     def traverseFromHead(self):
         current_node = self.head
+        if not current_node:
+            print('List is empty')
+            return
+        print('Traverse from head:',end=' ')
         while current_node:
             print(current_node.value, end=' ')
             current_node = current_node.next
@@ -59,6 +83,10 @@ class DoublyLinkedList:
     
     def traverseFromTail(self):
         current_node = self.tail
+        if not current_node:
+            print('List is empty')
+            return
+        print('Traverse from tail:',end=' ')
         while current_node:
             print(current_node.value, end = ' ')
             current_node = current_node.prev
@@ -70,38 +98,28 @@ L.append(2)
 L.append(1)
 L.append(3)
 
-print('Traverse from head:',end='')
+print('Head node value after append.',L.headNode().value)
+print('Tail node value after append.',L.tailNode().value)
 L.traverseFromHead()
-print('Traverse from tail:',end='')
 L.traverseFromTail()
-print('Value of the head node',L.headNode().value)
-print('Value of the tail node',L.tailNode().value)
-
-L.append(4)
-
-print('Traverse from head:',end='')
-L.traverseFromHead()
-print('Traverse from tail:',end='')
-L.traverseFromTail()
-print('Value of the head node',L.headNode().value)
-print('Value of the tail node',L.tailNode().value)
 
 L.prepend(0)
 L.prepend(-1)
 
-print('Traverse from head:',end='')
+print('Head node value after prepend.',L.headNode().value)
+print('Tail node value after prepend.',L.tailNode().value)
 L.traverseFromHead()
-print('Traverse from tail:',end='')
 L.traverseFromTail()
-print('Value of the head node',L.headNode().value)
-print('Value of the tail node',L.tailNode().value)
+
+L.deleteTail()
+print('Head node value after delete tail.',L.headNode().value)
+print('Tail node value after delete tail.',L.tailNode().value)
+L.traverseFromHead()
+L.traverseFromTail()
 
 L.deleteHead()
-L.deleteTail()
-
-print('Traverse from head:',end='')
+print('Head node value after delete head.',L.headNode().value)
+print('Tail node value after delete head.',L.tailNode().value)
 L.traverseFromHead()
-print('Traverse from tail:',end='')
 L.traverseFromTail()
-print('Value of the head node',L.headNode().value)
-print('Value of the tail node',L.tailNode().value)
+
