@@ -21,5 +21,6 @@ class Solution {
         }
         boolean result = solution.hasDuplicate(nums);
         System.out.println(result);
+        scanner.close();
     }
 }

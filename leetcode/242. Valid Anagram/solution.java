@@ -23,5 +23,6 @@ class Solution {
         String t = sc.next();
         Solution solution = new Solution();
         System.out.println(solution.isAnagram(s, t) ? "true" : "false");
+        sc.close();
     }
 }
