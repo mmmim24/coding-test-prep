@@ -1,1 +1,2 @@
-0
+Original list: 2 3 5 7 11 
+Reversed list: 11 7 5 3 2 
