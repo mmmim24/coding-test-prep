@@ -12,6 +12,19 @@ public:
         return total - sum;
     }
 };
+class SolutionXOR
+{
+public:
+    int missingNumber(vector<int> &nums)
+    {
+        int result = nums.size();
+        for (int i = 0; i < nums.size(); i++)
+        {
+            result ^= (i ^ nums[i]);
+        }
+        return result;
+    }
+};
 
 int main()
 {
@@ -22,7 +35,8 @@ int main()
     {
         cin >> nums[i];
     }
-    Solution s;
+    // Solution s;
+    SolutionXOR s;
     cout << s.missingNumber(nums) << endl;
     return 0;
 }
