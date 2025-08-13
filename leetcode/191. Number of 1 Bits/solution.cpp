@@ -9,10 +9,24 @@ public:
         return __builtin_popcount(n);
     }
 };
-
+class Solution
+{
+public:
+    int hammingWeight(uint32_t n)
+    {
+        int result = 0;
+        while (n)
+        {
+            if (n & 1)
+                result++;
+            n >>= 1;
+        }
+        return result;
+    }
+};
 int main()
 {
-    SolutionBPC s;
+    Solution s;
     int n;
     cin >> n;
     cout << s.hammingWeight(n) << endl;
