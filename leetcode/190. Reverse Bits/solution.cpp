@@ -8,9 +8,8 @@ public:
         int res = 0;
         for (int i = 0; i < 32; i++)
         {
-            int8_t bit = (n >> 1) & 1;
+            int8_t bit = (n >> i) & 1;
             res += bit << (31 - i);
-            // n >>= 1;
         }
         return res;
     }
