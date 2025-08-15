@@ -7,15 +7,22 @@ public:
     {
         int n = nums.size();
         vector<int> res(n, 1);
+        // create the suffix product array first
+        for (int i = n - 2; i > -1; i--)
+        {
+            res[i] = res[i + 1] * nums[i + 1];
+        }
+        // now instead of creating an extra array
+        // and create the resultant array multiplying
+        // the suffix and prefix arrays, multiply
+        // nums[0] * res[1]. Then nums[0] * nums[1] * res[2]
+        // and so on. so create a variable for O(1) space
+        // to store the multiplication from nums[0] to nums[n-1]
+        int multiplier = nums[0];
         for (int i = 1; i < n; i++)
         {
-            res[i] = res[i - 1] * nums[i - 1];
-        }
-        int mul = 1;
-        for (int i = n - 1; i >= 0; i--)
-        {
-            res[i] *= mul;
-            mul *= nums[i];
+            res[i] *= multiplier;
+            multiplier *= nums[i];
         }
         return res;
     }
