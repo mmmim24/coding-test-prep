@@ -1,5 +1,27 @@
 #include <bits/stdc++.h>
 using namespace std;
+class SolutionSet
+{
+public:
+    int longestConsecutive(vector<int> &nums)
+    {
+        unordered_set<int> st(nums.begin(), nums.end());
+        int res = 0;
+        for (auto num : st)
+        {
+            if (st.find(num - 1) == st.end())
+            {
+                int cnt = 1;
+                while (st.find(num + cnt) != st.end())
+                {
+                    cnt++;
+                }
+                res = max(res, cnt);
+            }
+        }
+        return res;
+    }
+};
 class Solution
 {
 public:
@@ -29,7 +51,7 @@ int main()
     vector<int> nums(n), vec = {9, 1, 4, 7, 3, -1, 0, 5, 8, -1, 6};
     for (int i = 0; i < n; i++)
         cin >> nums[i];
-    Solution s;
-    cout << s.longestConsecutive(vec) << "\n";
+    SolutionSet s;
+    cout << s.longestConsecutive(nums) << "\n";
     return 0;
 }
