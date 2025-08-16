@@ -31,7 +31,7 @@
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [x] 121. Best Time to Buy and Sell Stock
 - [ ] 124. Binary Tree Maximum Path Sum
-- [ ] 125. Valid Palindrome
+- [x] 125. Valid Palindrome
 - [x] 128. Longest Consecutive Sequence
 - [ ] 133. Clone Graph
 - [ ] 139. Word Break
