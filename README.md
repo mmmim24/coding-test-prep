@@ -32,7 +32,7 @@
 - [x] 121. Best Time to Buy and Sell Stock
 - [ ] 124. Binary Tree Maximum Path Sum
 - [ ] 125. Valid Palindrome
-- [ ] 128. Longest Consecutive Sequence
+- [x] 128. Longest Consecutive Sequence
 - [ ] 133. Clone Graph
 - [ ] 139. Word Break
 - [ ] 141. Linked List Cycle
@@ -60,14 +60,14 @@
 - [ ] 261. Graph Valid Tree
 - [x] 268. Missing Number
 - [ ] 269. Alien Dictionary
-- [ ] 271. Encode and Decode Strings
+- [x] 271. Encode and Decode Strings
 - [ ] 295. Find Median from Data Stream
 - [ ] 297. Serialize and Deserialize Binary Tree
 - [ ] 300. Longest Increasing Subsequence
 - [ ] 322. Coin Change
 - [ ] 323. Number of Connected Components in an Undirected Graph
 - [x] 338. Counting Bits
-- [ ] 347. Top K Frequent Elements
+- [x] 347. Top K Frequent Elements
 - [x] 371. Sum of Two Integers
 - [ ] 417. Pacific Atlantic Water Flow
 - [ ] 424. Longest Repeating Character Replacement
