@@ -7,7 +7,7 @@
 - [ ] 15. 3Sum
 - [ ] 19. Remove Nth Node From End of List
 - [x] 20. Valid Parentheses
-- [ ] 21. Merge Two Sorted Lists
+- [x] 21. Merge Two Sorted Lists
 - [ ] 23. Merge k Sorted Lists
 - [ ] 33. Search in Rotated Sorted Array
 - [ ] 39. Combination Sum
@@ -19,7 +19,7 @@
 - [ ] 56. Merge Intervals
 - [ ] 57. Insert Interval
 - [ ] 62. Unique Paths
-- [ ] 70. Climbing Stairs
+- [x] 70. Climbing Stairs
 - [ ] 73. Set Matrix Zeroes
 - [ ] 76. Minimum Window Substring
 - [ ] 79. Word Search
