@@ -35,7 +35,7 @@
 - [x] 128. Longest Consecutive Sequence
 - [ ] 133. Clone Graph
 - [ ] 139. Word Break
-- [ ] 141. Linked List Cycle
+- [x] 141. Linked List Cycle
 - [ ] 143. Reorder List
 - [ ] 152. Maximum Product Subarray
 - [x] 153. Find Minimum in Rotated Sorted Array
