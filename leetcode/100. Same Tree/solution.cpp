@@ -16,13 +16,11 @@ public:
     {
         if (p == nullptr && q == nullptr)
             return true;
-        else
+        if (p && q && p->val == q->val)
         {
-            if (p->val != q->val)
-                return false;
-            else
-                return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+            return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
         }
+        return false;
     }
     TreeNode *invertTree(TreeNode *root)
     {
