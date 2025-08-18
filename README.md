@@ -72,7 +72,7 @@
 - [ ] 417. Pacific Atlantic Water Flow
 - [ ] 424. Longest Repeating Character Replacement
 - [ ] 435. Non-overlapping Intervals
-- [ ] 572. Subtree of Another Tree
+- [x] 572. Subtree of Another Tree
 - [ ] 647. Palindromic Substrings
 - [ ] 1143. Longest Common Subsequence
 
