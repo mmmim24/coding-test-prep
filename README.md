@@ -11,16 +11,16 @@
 - [ ] 23. Merge k Sorted Lists
 - [ ] 33. Search in Rotated Sorted Array
 - [ ] 39. Combination Sum
-- [ ] 48. Rotate Image
+- [x] 48. Rotate Image
 - [x] 49. Group Anagrams
 - [ ] 53. Maximum Subarray
-- [ ] 54. Spiral Matrix
+- [x] 54. Spiral Matrix
 - [ ] 55. Jump Game
 - [ ] 56. Merge Intervals
 - [ ] 57. Insert Interval
 - [ ] 62. Unique Paths
 - [x] 70. Climbing Stairs
-- [ ] 73. Set Matrix Zeroes
+- [x] 73. Set Matrix Zeroes
 - [ ] 76. Minimum Window Substring
 - [ ] 79. Word Search
 - [ ] 91. Decode Ways
