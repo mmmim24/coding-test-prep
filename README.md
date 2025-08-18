@@ -25,7 +25,7 @@
 - [ ] 79. Word Search
 - [ ] 91. Decode Ways
 - [ ] 98. Validate Binary Search Tree
-- [ ] 100. Same Tree
+- [x] 100. Same Tree
 - [ ] 102. Binary Tree Level Order Traversal
 - [x] 104. Maximum Depth of Binary Tree
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
