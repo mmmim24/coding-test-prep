@@ -9,7 +9,7 @@
 - [x] 20. Valid Parentheses
 - [x] 21. Merge Two Sorted Lists
 - [ ] 23. Merge k Sorted Lists
-- [ ] 33. Search in Rotated Sorted Array
+- [x] 33. Search in Rotated Sorted Array
 - [ ] 39. Combination Sum
 - [x] 48. Rotate Image
 - [x] 49. Group Anagrams
