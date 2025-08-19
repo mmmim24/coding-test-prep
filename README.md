@@ -56,7 +56,7 @@
 - [x] 238. Product of Array Except Self
 - [x] 242. Valid Anagram
 - [x] 252. Meeting Rooms
-- [ ] 253. Meeting Rooms II
+- [x] 253. Meeting Rooms II
 - [ ] 261. Graph Valid Tree
 - [x] 268. Missing Number
 - [ ] 269. Alien Dictionary
