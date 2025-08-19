@@ -4,7 +4,7 @@
 - [ ] 3. Longest Substring Without Repeating Characters
 - [ ] 5. Longest Palindromic Substring
 - [ ] 11. Container With Most Water
-- [ ] 15. 3Sum
+- [x] 15. 3Sum
 - [ ] 19. Remove Nth Node From End of List
 - [x] 20. Valid Parentheses
 - [x] 21. Merge Two Sorted Lists
