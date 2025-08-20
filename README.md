@@ -1,7 +1,7 @@
 # Leetcode Blind75 problem list ( might go to 150 or 250)
 
 - [x] 1. Two Sum
-- [ ] 3. Longest Substring Without Repeating Characters
+- [x] 3. Longest Substring Without Repeating Characters
 - [ ] 5. Longest Palindromic Substring
 - [x] 11. Container With Most Water
 - [x] 15. 3Sum
