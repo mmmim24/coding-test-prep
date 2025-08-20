@@ -16,8 +16,8 @@
 - [ ] 53. Maximum Subarray
 - [x] 54. Spiral Matrix
 - [ ] 55. Jump Game
-- [ ] 56. Merge Intervals
-- [ ] 57. Insert Interval
+- [x] 56. Merge Intervals
+- [x] 57. Insert Interval
 - [ ] 62. Unique Paths
 - [x] 70. Climbing Stairs
 - [x] 73. Set Matrix Zeroes
@@ -71,7 +71,7 @@
 - [x] 371. Sum of Two Integers
 - [ ] 417. Pacific Atlantic Water Flow
 - [ ] 424. Longest Repeating Character Replacement
-- [ ] 435. Non-overlapping Intervals
+- [x] 435. Non-overlapping Intervals
 - [x] 572. Subtree of Another Tree
 - [ ] 647. Palindromic Substrings
 - [ ] 1143. Longest Common Subsequence
