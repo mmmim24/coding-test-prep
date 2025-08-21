@@ -70,7 +70,7 @@
 - [x] 347. Top K Frequent Elements
 - [x] 371. Sum of Two Integers
 - [ ] 417. Pacific Atlantic Water Flow
-- [ ] 424. Longest Repeating Character Replacement
+- [x] 424. Longest Repeating Character Replacement
 - [x] 435. Non-overlapping Intervals
 - [x] 572. Subtree of Another Tree
 - [ ] 647. Palindromic Substrings
