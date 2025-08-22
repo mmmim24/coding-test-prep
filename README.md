@@ -26,7 +26,7 @@
 - [ ] 91. Decode Ways
 - [ ] 98. Validate Binary Search Tree
 - [x] 100. Same Tree
-- [ ] 102. Binary Tree Level Order Traversal
+- [x] 102. Binary Tree Level Order Traversal
 - [x] 104. Maximum Depth of Binary Tree
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [x] 121. Best Time to Buy and Sell Stock
