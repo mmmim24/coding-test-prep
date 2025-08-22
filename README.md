@@ -36,7 +36,7 @@
 - [ ] 133. Clone Graph
 - [ ] 139. Word Break
 - [x] 141. Linked List Cycle
-- [ ] 143. Reorder List
+- [x] 143. Reorder List
 - [ ] 152. Maximum Product Subarray
 - [x] 153. Find Minimum in Rotated Sorted Array
 - [x] 190. Reverse Bits
