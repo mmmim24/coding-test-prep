@@ -41,7 +41,7 @@
 - [x] 153. Find Minimum in Rotated Sorted Array
 - [x] 190. Reverse Bits
 - [x] 191. Number of 1 Bits
-- [ ] 198. House Robber
+- [x] 198. House Robber
 - [x] 200. Number of Islands
 - [x] 206. Reverse Linked List
 - [ ] 207. Course Schedule
