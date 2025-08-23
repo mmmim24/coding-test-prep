@@ -42,7 +42,7 @@
 - [x] 190. Reverse Bits
 - [x] 191. Number of 1 Bits
 - [ ] 198. House Robber
-- [ ] 200. Number of Islands
+- [x] 200. Number of Islands
 - [x] 206. Reverse Linked List
 - [ ] 207. Course Schedule
 - [ ] 208. Implement Trie (Prefix Tree)
