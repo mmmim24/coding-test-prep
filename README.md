@@ -51,7 +51,7 @@
 - [ ] 213. House Robber II
 - [x] 217. Contains Duplicate
 - [x] 226. Invert Binary Tree
-- [ ] 230. Kth Smallest Element in a BST
+- [x] 230. Kth Smallest Element in a BST
 - [x] 235. Lowest Common Ancestor of a Binary Search Tree
 - [x] 238. Product of Array Except Self
 - [x] 242. Valid Anagram
