@@ -10,7 +10,7 @@
 - [x] 21. Merge Two Sorted Lists
 - [ ] 23. Merge k Sorted Lists
 - [x] 33. Search in Rotated Sorted Array
-- [ ] 39. Combination Sum
+- [x] 39. Combination Sum
 - [x] 48. Rotate Image
 - [x] 49. Group Anagrams
 - [ ] 53. Maximum Subarray
