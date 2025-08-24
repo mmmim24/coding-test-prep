@@ -48,7 +48,7 @@
 - [ ] 208. Implement Trie (Prefix Tree)
 - [ ] 211. Design Add and Search Words Data Structure
 - [ ] 212. Word Search II
-- [ ] 213. House Robber II
+- [x] 213. House Robber II
 - [x] 217. Contains Duplicate
 - [x] 226. Invert Binary Tree
 - [x] 230. Kth Smallest Element in a BST
