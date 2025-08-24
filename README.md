@@ -74,7 +74,7 @@
 - [x] 435. Non-overlapping Intervals
 - [x] 572. Subtree of Another Tree
 - [ ] 647. Palindromic Substrings
-- [ ] 1143. Longest Common Subsequence
+- [x] 1143. Longest Common Subsequence
 
 # Miscellaneous
 
