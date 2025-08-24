@@ -63,7 +63,7 @@
 - [x] 271. Encode and Decode Strings
 - [ ] 295. Find Median from Data Stream
 - [ ] 297. Serialize and Deserialize Binary Tree
-- [ ] 300. Longest Increasing Subsequence
+- [x] 300. Longest Increasing Subsequence
 - [ ] 322. Coin Change
 - [ ] 323. Number of Connected Components in an Undirected Graph
 - [x] 338. Counting Bits
