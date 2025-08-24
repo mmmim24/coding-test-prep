@@ -45,7 +45,7 @@
 - [x] 200. Number of Islands
 - [x] 206. Reverse Linked List
 - [ ] 207. Course Schedule
-- [ ] 208. Implement Trie (Prefix Tree)
+- [x] 208. Implement Trie (Prefix Tree)
 - [ ] 211. Design Add and Search Words Data Structure
 - [ ] 212. Word Search II
 - [x] 213. House Robber II
