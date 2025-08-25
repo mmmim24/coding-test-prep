@@ -13,7 +13,7 @@
 - [x] 39. Combination Sum
 - [x] 48. Rotate Image
 - [x] 49. Group Anagrams
-- [ ] 53. Maximum Subarray
+- [x] 53. Maximum Subarray
 - [x] 54. Spiral Matrix
 - [ ] 55. Jump Game
 - [x] 56. Merge Intervals
