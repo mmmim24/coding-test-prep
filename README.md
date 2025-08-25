@@ -15,7 +15,7 @@
 - [x] 49. Group Anagrams
 - [x] 53. Maximum Subarray
 - [x] 54. Spiral Matrix
-- [ ] 55. Jump Game
+- [x] 55. Jump Game
 - [x] 56. Merge Intervals
 - [x] 57. Insert Interval
 - [ ] 62. Unique Paths
