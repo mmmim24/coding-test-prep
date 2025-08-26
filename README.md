@@ -64,7 +64,7 @@
 - [ ] 295. Find Median from Data Stream
 - [ ] 297. Serialize and Deserialize Binary Tree
 - [x] 300. Longest Increasing Subsequence
-- [ ] 322. Coin Change
+- [x] 322. Coin Change
 - [x] 323. Number of Connected Components in an Undirected Graph
 - [x] 338. Counting Bits
 - [x] 347. Top K Frequent Elements
