@@ -76,6 +76,9 @@
 - [ ] 647. Palindromic Substrings
 - [x] 1143. Longest Common Subsequence
 
+# Leetcode top interview 150
+- [x] 14. Longest Common Prefix
+
 # Miscellaneous
 
 - linked list implementation
