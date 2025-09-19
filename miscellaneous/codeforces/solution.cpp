@@ -31,20 +31,11 @@ using minpq = priority_queue<int, vector<int>, greater<int>>;
 #define no "NO\n"
 void solve()
 {
-    ll n, ans = 0;
+    ll n;
     cin >> n;
-    vector<ll> g(n);
+    vector<ll> a(n);
     for (int i = 0; i < n; i++)
-    {
-        cin >> g[i];
-    }
-    sort(g.rbegin(), g.rend());
-    int i;
-    for (i = 0; i < n; i += 2)
-    {
-        ans += g[i];
-    }
-    cout << ans << ndl;
+        cin >> a[i];
 }
 ///|||||||||||||||||||||||||||||||||||///
 ///-----"For every problem,there------///
@@ -57,7 +48,7 @@ int main()
     int T = 1;
     cin >> T;
     // for (int caseno = 1; caseno <= T; caseno++)
-    // while(!cin.eof())
+    // while (!cin.eof())
     // while(true)
     while (T--)
     {
