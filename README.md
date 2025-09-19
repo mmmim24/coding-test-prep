@@ -78,6 +78,7 @@
 
 # Leetcode top interview 150
 - [x] 14. Longest Common Prefix
+- [x] 202. Happy Number
 
 # Miscellaneous
 
