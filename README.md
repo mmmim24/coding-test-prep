@@ -79,6 +79,7 @@
 # Leetcode top interview 150
 - [x] 14. Longest Common Prefix
 - [x] 202. Happy Number
+- [x] 28. Find the Index of the First Occurrence in a String
 
 # Miscellaneous
 
