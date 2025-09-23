@@ -82,6 +82,7 @@
 - [x] 28. Find the Index of the First Occurrence in a String
 - [x] 383. Ransom Note
 - [x] 205. Isomorphic Strings
+- [ ] 290. Word Pattern
 
 # Miscellaneous
 
