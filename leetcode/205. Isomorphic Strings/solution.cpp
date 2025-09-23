@@ -5,26 +5,22 @@ class Solution
 public:
     bool isIsomorphic(string s, string t)
     {
-        unordered_map<char, int> sam, tam;
+        unordered_map<char, char> sam;
         for (int i = 0; i < s.size(); i++)
         {
             if (sam.find(s[i]) != sam.end())
             {
-                if (i != sam[s[i]])
+                if (sam[s[i]] != t[i])
                     return false;
             }
             else
             {
-                sam[s[i]] = i;
-            }
-            if (tam.find(t[i]) != tam.end())
-            {
-                if (i != tam[t[i]])
-                    return false;
-            }
-            else
-            {
-                tam[t[i]] = i;
+                for (auto it : sam)
+                {
+                    if (it.second == t[i])
+                        return false;
+                }
+                sam[s[i]] = t[i];
             }
         }
         return true;
