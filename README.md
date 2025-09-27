@@ -86,6 +86,7 @@
 - [x] 219. Contains Duplicate II
 - [x] 80. Remove Duplicates from Sorted Array II
 - [x] 228. Summary Ranges  
+- [x] 189. Rotate Array
 
 # Miscellaneous
 
