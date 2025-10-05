@@ -87,6 +87,35 @@
 - [x] 80. Remove Duplicates from Sorted Array II
 - [x] 228. Summary Ranges  
 - [x] 189. Rotate Array
+  
+# SRBD pre employment
+- [] Agressive Cows
+- [] Bipartite Graph
+- [] Burst Balloons
+- [] Camel
+- [] Car Fueling
+- [] Chess Piece
+- [] Crow Pots
+- [] Doc Probability
+- [] Endoscopy
+- [] Equation Solving
+- [] Frog Jump
+- [] Jwellery Maze
+- [] Kim and Refrigerators
+- [] Laughing Bomb
+- [] Mens Restroom
+- [] Oil Mines
+- [] Travelling Salesman
+- [] detect cycle int undirect graph
+- [] sum of nodes k distance
+- [] Aeroplane bombing
+- [] Fisher man
+- [] Rock Climbing
+- [] detect cycle direct graph
+- [] detect cycle with min cost
+- [] ominuous number
+- [] wormhole
+
 
 # Miscellaneous
 
