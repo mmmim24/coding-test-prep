@@ -78,15 +78,16 @@
 
 # Leetcode top interview 150
 - [x] 14. Longest Common Prefix
-- [x] 202. Happy Number
 - [x] 28. Find the Index of the First Occurrence in a String
-- [x] 383. Ransom Note
-- [x] 205. Isomorphic Strings
-- [x] 290. Word Pattern
-- [x] 219. Contains Duplicate II
+- [x] 66. Plus One
 - [x] 80. Remove Duplicates from Sorted Array II
-- [x] 228. Summary Ranges  
 - [x] 189. Rotate Array
+- [x] 202. Happy Number
+- [x] 205. Isomorphic Strings
+- [x] 219. Contains Duplicate II
+- [x] 228. Summary Ranges  
+- [x] 290. Word Pattern
+- [x] 383. Ransom Note
   
 # SRBD pre employment
 - [] Agressive Cows
