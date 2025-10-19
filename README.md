@@ -80,6 +80,7 @@
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
 - [x] 66. Plus One
+- [ ] 69. Sqrt(x)
 - [x] 80. Remove Duplicates from Sorted Array II
 - [x] 101. Symmetric Tree
 - [x] 122. Best Time to Buy and Sell Stock II
