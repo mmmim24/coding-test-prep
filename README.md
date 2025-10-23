@@ -91,6 +91,7 @@
 - [x] 205. Isomorphic Strings
 - [x] 219. Contains Duplicate II
 - [x] 228. Summary Ranges  
+- [x] 274. H-Index
 - [x] 290. Word Pattern
 - [x] 383. Ransom Note
   
