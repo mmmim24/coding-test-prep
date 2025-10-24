@@ -93,6 +93,7 @@
 - [x] 228. Summary Ranges  
 - [x] 274. H-Index
 - [x] 290. Word Pattern
+- [x] 380. Insert Delete GetRandom O(1)
 - [x] 383. Ransom Note
   
 # SRBD pre employment
