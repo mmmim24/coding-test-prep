@@ -22,7 +22,7 @@
 - [ ] 62. Unique Paths
 - [x] 70. Climbing Stairs
 - [x] 73. Set Matrix Zeroes
-- [ ] 76. Minimum Window Substring
+- [x] 76. Minimum Window Substring
 - [ ] 79. Word Search
 - [ ] 91. Decode Ways
 - [x] 98. Validate Binary Search Tree
