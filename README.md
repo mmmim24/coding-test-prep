@@ -62,7 +62,7 @@
 - [x] 268. Missing Number
 - [ ] 269. Alien Dictionary
 - [x] 271. Encode and Decode Strings
-- [ ] 295. Find Median from Data Stream
+- [x] 295. Find Median from Data Stream
 - [ ] 297. Serialize and Deserialize Binary Tree
 - [x] 300. Longest Increasing Subsequence
 - [x] 322. Coin Change
