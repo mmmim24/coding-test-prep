@@ -2,7 +2,7 @@
 
 - [x] 1. Two Sum
 - [x] 3. Longest Substring Without Repeating Characters
-- [ ] 5. Longest Palindromic Substring
+- [x] 5. Longest Palindromic Substring
 - [x] 11. Container With Most Water
 - [x] 15. 3Sum
 - [x] 19. Remove Nth Node From End of List
