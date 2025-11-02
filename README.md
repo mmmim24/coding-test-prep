@@ -31,7 +31,7 @@
 - [x] 104. Maximum Depth of Binary Tree
 - [x] 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [x] 121. Best Time to Buy and Sell Stock
-- [ ] 124. Binary Tree Maximum Path Sum
+- [x] 124. Binary Tree Maximum Path Sum
 - [x] 125. Valid Palindrome
 - [x] 128. Longest Consecutive Sequence
 - [x] 133. Clone Graph
