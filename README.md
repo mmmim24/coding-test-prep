@@ -63,7 +63,7 @@
 - [ ] 269. Alien Dictionary
 - [x] 271. Encode and Decode Strings
 - [x] 295. Find Median from Data Stream
-- [ ] 297. Serialize and Deserialize Binary Tree
+- [x] 297. Serialize and Deserialize Binary Tree
 - [x] 300. Longest Increasing Subsequence
 - [x] 322. Coin Change
 - [x] 323. Number of Connected Components in an Undirected Graph
