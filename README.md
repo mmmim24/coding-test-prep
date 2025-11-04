@@ -80,6 +80,7 @@
 # Leetcode top interview 150
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
+- [ ] 42. Trapping Rain Water
 - [x] 66. Plus One
 - [x] 69. Sqrt(x)
 - [x] 80. Remove Duplicates from Sorted Array II
