@@ -80,14 +80,15 @@
 # Leetcode top interview 150
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
-- [ ] 42. Trapping Rain Water
+- [x] 42. Trapping Rain Water
 - [x] 66. Plus One
 - [x] 69. Sqrt(x)
 - [x] 80. Remove Duplicates from Sorted Array II
 - [x] 101. Symmetric Tree
 - [x] 122. Best Time to Buy and Sell Stock II
 - [x] 134. Gas Station
-- [ ] 135. Candy
+- [x] 135. Candy
+- [x] 149. Max Points on a Line
 - [x] 189. Rotate Array
 - [x] 202. Happy Number
 - [x] 205. Isomorphic Strings
