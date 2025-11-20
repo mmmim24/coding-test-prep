@@ -98,6 +98,7 @@
 - [x] 290. Word Pattern
 - [x] 380. Insert Delete GetRandom O(1)
 - [x] 383. Ransom Note
+- [x] 502. IPO
   
 # SRBD pre employment
 - [] Agressive Cows
