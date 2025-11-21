@@ -79,6 +79,7 @@
 
 # Leetcode top interview 150
 - [x] 12. Integer to Roman
+- [x] 13. Roman to Integer
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
 - [x] 42. Trapping Rain Water
