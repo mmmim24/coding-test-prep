@@ -78,6 +78,7 @@
 - [x] 1143. Longest Common Subsequence
 
 # Leetcode top interview 150
+- [x] 12. Integer to Roman
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
 - [x] 42. Trapping Rain Water
