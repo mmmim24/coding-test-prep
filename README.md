@@ -95,6 +95,7 @@
 - [x] 189. Rotate Array
 - [x] 202. Happy Number
 - [x] 205. Isomorphic Strings
+- [x] 209. Minimum Size Subarray Sum
 - [x] 219. Contains Duplicate II
 - [x] 228. Summary Ranges  
 - [x] 274. H-Index
