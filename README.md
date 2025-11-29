@@ -82,6 +82,7 @@
 - [x] 13. Roman to Integer
 - [x] 14. Longest Common Prefix
 - [x] 28. Find the Index of the First Occurrence in a String
+- [x] 30. Substring with Concatenation of All Words
 - [x] 35. Search Insert Position
 - [x] 42. Trapping Rain Water
 - [x] 66. Plus One
