@@ -107,6 +107,7 @@
 - [x] 380. Insert Delete GetRandom O(1)
 - [x] 383. Ransom Note
 - [x] 502. IPO
+- [x] 530. Minimum Absolute Difference in BST
   
 # SRBD pre employment
 - [] Agressive Cows
