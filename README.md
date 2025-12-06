@@ -85,6 +85,7 @@
 - [x] 30. Substring with Concatenation of All Words
 - [x] 35. Search Insert Position
 - [x] 42. Trapping Rain Water
+- [x] 50. Pow(x, n)
 - [x] 66. Plus One
 - [x] 69. Sqrt(x)
 - [x] 80. Remove Duplicates from Sorted Array II
