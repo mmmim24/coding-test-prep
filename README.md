@@ -78,6 +78,7 @@
 - [x] 1143. Longest Common Subsequence
 
 # Leetcode top interview 150
+- [x] 2. Add Two Numbers
 - [x] 12. Integer to Roman
 - [x] 13. Roman to Integer
 - [x] 14. Longest Common Prefix
