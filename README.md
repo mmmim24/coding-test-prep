@@ -111,6 +111,7 @@
 - [x] 383. Ransom Note
 - [x] 502. IPO
 - [x] 530. Minimum Absolute Difference in BST
+- [x] 637. Average of Levels in Binary Tree
 - [x] 783. Minimum Distance Between BST Nodes
   
 # SRBD pre employment
