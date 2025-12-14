@@ -91,8 +91,9 @@
 - [x] 69. Sqrt(x)
 - [x] 80. Remove Duplicates from Sorted Array II
 - [x] 101. Symmetric Tree
-- [ ] 112. Path Sum
+- [x] 112. Path Sum
 - [x] 122. Best Time to Buy and Sell Stock II
+- [x] 130. Surrounded Regions
 - [x] 134. Gas Station
 - [x] 135. Candy
 - [x] 149. Max Points on a Line
